@@ -8,3 +8,8 @@ int main() {
 int soma(int num1, int num2) {
     retunr num1 + num2;
 }
+
+int printNome() {
+    printf("Gabriel kkk");
+    return 0;
+}
