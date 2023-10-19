@@ -13,3 +13,8 @@ int printNome() {
     printf("Gabriel kkk");
     return 0;
 }
+
+int printola () {
+    printf("ola")
+    return 0;
+}
